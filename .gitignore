@@ -1,0 +1,20 @@
+# Sensitive config — rename config.sample.php and fill in real values on server
+# (we DO commit config files so InfinityFree deploy is easy — remove this if preferred)
+
+# Uploaded product images (large binary files)
+assets/images/products/*.jpg
+assets/images/products/*.jpeg
+assets/images/products/*.png
+assets/images/products/*.gif
+assets/images/products/*.webp
+
+# PHP dependencies
+vendor/
+
+# Claude Code internal files
+.claude/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.log

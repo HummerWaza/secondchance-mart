@@ -1,0 +1,12 @@
+{
+    "name": "secondchance/mart",
+    "description": "SecondChance Mart - CBS University Project",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "SecondChance\\": "src/"
+        }
+    }
+}
