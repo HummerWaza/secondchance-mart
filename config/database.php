@@ -4,10 +4,10 @@
 // ============================================================
 
 // ── For InfinityFree: replace these with values from cPanel → MySQL Databases
-define('DB_HOST', 'localhost');           // InfinityFree: sql###.infinityfree.com
-define('DB_NAME', 'secondchance_mart');   // InfinityFree: epiz_XXXXXXX_dbname
-define('DB_USER', 'root');                // InfinityFree: epiz_XXXXXXX
-define('DB_PASS', '');                    // InfinityFree: the password you set
+define('DB_HOST', 'sql103.infinityfree.com');
+define('DB_NAME', 'if0_41830658_scmart');
+define('DB_USER', 'if0_41830658');
+define('DB_PASS', 'lFTNasGwFHe2');
 define('DB_CHARSET', 'utf8mb4');
 
 /**

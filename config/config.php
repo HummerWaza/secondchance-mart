@@ -5,7 +5,7 @@
 
 // Site information
 define('SITE_NAME',    'SecondChance Mart');
-define('SITE_URL',     'http://localhost:8000');
+define('SITE_URL',     'http://secondchancemart.lovestoblog.com');
 define('SITE_TAGLINE', 'Save More, Waste Less');
 
 // ── Email Addresses ──────────────────────────────────────────
